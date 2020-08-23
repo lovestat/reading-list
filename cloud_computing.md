@@ -1,4 +1,4 @@
-# Cloud Computing vs Traditional IT infrastructure
+# Cloud Computing vs Traditional IT infrastructure (Economically and Technically)
 Cloud computing is far more abstract as a virtual hosting solution. Instead of being accessible via physical hardware, all servers, software and networks are hosted in the cloud, off premises. It’s a real-time virtual environment hosted between several different servers at the same time. So rather than investing money into purchasing physical servers in-house, you can rent the data storage space from cloud computing providers on a more cost effective pay-per-use basis.
 
 The main differences between cloud hosting and traditional web hosting are:
@@ -25,3 +25,18 @@ With traditional IT infrastructure, you will need to purchase equipment and addi
 Cloud computing is an external form of data storage and software delivery, which can make it seem less secure than local data hosting. Anyone with access to the server can view and use the stored data and applications in the cloud, wherever internet connection is available. Choosing a cloud service provider that is completely transparent in its hosting of cloud platforms and ensures optimum security measures are in place is crucial when transitioning to the cloud. Please see our How Secure Is Cloud Computing? page for more information.
 
 With traditional IT infrastructure, you are responsible for the protection of your data, and it is easier to ensure that only approved personnel can access stored applications and data. Physically connected to your local network, data centres can be managed by in-house IT departments on a round-the-clock basis, but a significant amount of time and money is needed to ensure the right security strategies are implemented and data recovery systems are in place.
+
+
+# 7 Key Technical Skills for Cloud Engineers include: 
+ 
+
+- Database Skills: Invest in learning a database querying language and database platform. Learning languages like MySQL and Hadoop can be really helpful. 
+- Programming Skills: Proficiency in programming languages like PHP, Java, .NET are essential. Traditional programming languages such as R, Python and Ruby are also in demand.
+- Linux: Linux is an open-source operating system and can be used to build technologies without going through the hassles of permissions. Linux powers many apps and web pages used today. Cloud engineers who can architect, administer, and maintain Linux-based servers is increasing.
+- Networking Skills: Network integration with cloud services is essential. Cloud networking fundamentals are a must in cloud computing. Knowledge of virtual networks and focus on making the process easier for end-users is necessary.
+- Cloud Service Providers: To thrive in the cloud domain, an understanding offering of cloud service providers is essential. Familiarize with cloud services such as AWS, Microsoft Azure, OpenStack, and GCP.
+- Web Services & APIs: Cloud architects work on the foundation of APIs and web services. Open web services such as XML, SOAP, UDDI, and WSDI are used to tag, transfer, and describe data. APIs complete and deploy the integration on the respective platforms.
+- Information Security: Organizations are placing more emphasis on protecting data and applications. Tracking the current security state and adopting preventive measures are important in cloud computing. Learning cybersecurity and earning a credential will give you an edge.
+- Cloud computing is a versatile domain, and gaining an in-depth understanding of the skills mentioned above will help you become a successful cloud engineer.
+
+
